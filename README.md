@@ -2,7 +2,7 @@
 An exercise in forking and creating a pull requests.
 
 ## First, run through the below exercise to add your SSH key
-- https://github.com/ga-wdi-lessons/git-ssh
+- https://git.generalassemb.ly/ga-wdi-lessons/git-ssh
 **If you cannot get it to work, then use HTTPS for the below instructions (#2)**
 
 ## Learning Objectives
@@ -11,7 +11,7 @@ An exercise in forking and creating a pull requests.
 ## Instructions
 You do not have the necessary rights to update this repository.  Therefore, you must fork it, make changes to your fork, and then send a pull request to the owners of this repository.
 
-On https://github.com/ga-dc/haiku:
+On https://git.generalassemb.ly/ga-wdi-exercises/haiku:
 
 1. Fork this repo to your personal account.
 2. Copy the "SSH clone URL" for your fork of this repo.
@@ -32,7 +32,7 @@ Starting in ~/wdi/exercises:
 
 Create a Pull Request:
 
-1. Back on github.com (on your forked repo), create a pull request to the upstream (original) repository: `ga-dc/haiku master <- your_github_name/haiku master`.
+1. Back on github.com (on your forked repo), create a pull request to the upstream (original) repository: `ga-wdi-exercises/haiku master <- your_github_name/haiku master`.
 
 Additional changes are added to the Pull Request:
 
